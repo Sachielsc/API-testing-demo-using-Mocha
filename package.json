@@ -12,6 +12,7 @@
     "request": "^2.87.0"
   },
   "devDependencies": {},
+  "repository": "https://github.com/Sachielsc/Another-Mocha-Project.git",
   "author": "Charles SHU",
   "license": "MIT"
 }
